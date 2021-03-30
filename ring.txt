@@ -1,0 +1,13 @@
+      Weight	Nested	Procedure	image	location	xdat startcode
+      3		ring	neutralRing.BMP	7	151	50
+      2		ring	neutralRing.BMP	108	152	50
+      2		ring	neutralRing.BMP	214	153	50
+      2		ring	neutralRing.BMP	426	154	50
+      2		ring	neutralRing.BMP	532	155	50
+      3		ring	neutralRing.BMP	633	156	50
+      3		ring	dollarRing.BMP	7	171	70
+      2		ring	dollarRing.BMP	108	172	70
+      2		ring	dollarRing.BMP	214	173	70
+      2		ring	dollarRing.BMP	426	174	70
+      2		ring	dollarRing.BMP	532	175	70
+      3		ring	dollarRing.BMP	633	176	70
